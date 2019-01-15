@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: Service-A
+server:  port: 0
+logging:  pattern:    level: info
+    
